@@ -1,0 +1,14 @@
+@font-face {
+    src: url('../fonts/Avenir-Medium.ttf') format('truetype'),
+        url('../fonts/Avenir-Medium.woff') format('woff'),
+        url('../fonts/Avenir-Medium.woff') format('woff2');
+    font-family: 'Avenir';
+    font-weight: 400;
+  }
+
+  @font-face {
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-family: 'Montserrat';
+    font-weight: 400;
+  }
+  
